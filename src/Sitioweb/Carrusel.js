@@ -11,24 +11,24 @@ const Carrusel = () => {
 				</div>
 				<div className="carousel-inner">
 				  <div className="carousel-item active">
-					<img src="https://i.ibb.co/7kPdK1J/galeria1.jpg" className="d-block w-100" alt="..."/>
+					<img src="https://i.ibb.co/n00CZ3W/IMG1.jpg" className="d-block w-100" alt="..."/>
 					<div className="carousel-caption d-none d-md-block">
-					  <h5>First slide label</h5>
-					  <p>Some representative placeholder content for the first slide.</p>
+					  <h5>Se parte de nuestra familia IDAT</h5>
+					  <p>Estudia en menos tiempo mientras trabajas.</p>
 					</div>
 				  </div>
 				  <div className="carousel-item">
-					<img src="https://i.ibb.co/m68wpfB/galeria2.jpg" className="d-block w-100" alt="..."/>
+					<img src="https://i.ibb.co/4Vn2kQj/IMG2.jpg" className="d-block w-100" alt="..."/>
 					<div class="carousel-caption d-none d-md-block">
-					  <h5>Second slide label</h5>
-					  <p>Some representative placeholder content for the second slide.</p>
+					  <h5>Se parte de nuestra familia IDAT</h5>
+					  <p>Estudia en menos tiempo mientras trabajas.</p>
 					</div>
 				  </div>
 				  <div className="carousel-item">
-					<img src="https://i.ibb.co/3M5BDHW/galeria3.jpg" className="d-block w-100" alt="..."/>
+					<img src="https://i.ibb.co/smKTCr6/IMG3.png" className="d-block w-100" alt="..."/>
 					<div className="carousel-caption d-none d-md-block">
-					  <h5>Third slide label</h5>
-					  <p>Some representative placeholder content for the third slide.</p>
+					  <h5>Se parte de nuestra familia IDAT</h5>
+					  <p>Estudia en menos tiempo mientras trabajas.</p>
 					</div>
 				  </div>
 				</div>

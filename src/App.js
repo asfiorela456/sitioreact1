@@ -2,12 +2,12 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './Sitioweb/Header';
 import Carrusel from './Sitioweb/Carrusel';
-import Aside from './Sitioweb/Aside';
 import Formulario from './Sitioweb/Formulario';
 import MapaUbic from './Sitioweb/MapaUbic';
 import Video from './Sitioweb/Video';
 import PiePag from './Sitioweb/PiePag';
 import MenuNav from './Sitioweb/MenuNav';
+import Asidecard from './Sitioweb/Asidecard';
 <p>ESTA ES UNA PÁGINA DE PRUEBA</p>
 function App() {
   return (
@@ -28,11 +28,11 @@ function App() {
 		  </article>
 		 
 		<aside className="col-md-3 bg-secondary">
-			<Aside/>
+			<Formulario/>
 		</aside>
    
     <article className="col-md-3 bg-primary">
-      <Formulario/>
+      <Asidecard/>
   	</article>
     
   <article className="col-md-5 justify-content-center bg-success">

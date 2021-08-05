@@ -4,6 +4,7 @@ const PiePag = () => {
     return (
         <div>
             <span>Informacion del sitio web</span>
+            
         </div>
     )
 }
