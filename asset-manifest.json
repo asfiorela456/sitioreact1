@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sitioreact1/static/css/main.5739ad41.chunk.css",
-    "main.js": "/sitioreact1/static/js/main.720a6b51.chunk.js",
-    "main.js.map": "/sitioreact1/static/js/main.720a6b51.chunk.js.map",
+    "main.js": "/sitioreact1/static/js/main.f283b9bf.chunk.js",
+    "main.js.map": "/sitioreact1/static/js/main.f283b9bf.chunk.js.map",
     "runtime-main.js": "/sitioreact1/static/js/runtime-main.b32f8fde.js",
     "runtime-main.js.map": "/sitioreact1/static/js/runtime-main.b32f8fde.js.map",
     "static/css/2.4be38407.chunk.css": "/sitioreact1/static/css/2.4be38407.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.bda38c94.chunk.js",
     "static/css/main.5739ad41.chunk.css",
-    "static/js/main.720a6b51.chunk.js"
+    "static/js/main.f283b9bf.chunk.js"
   ]
 }
