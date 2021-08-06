@@ -12,10 +12,10 @@ const MenuNav = () => {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" target="_blank" href="https://plataformacursos2021.milaulas.com/">Curso Marketing-CMS</a>
+          <a class="nav-link active" aria-current="page" target="_blank" href="https://plataformacursos2021.milaulas.com/">Curso Marketing-LMS</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">IDAT-LMS</a>
+          <a class="nav-link" target="_blank" href="http://www.idatcursos.epizy.com/">IDAT-CMS</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
