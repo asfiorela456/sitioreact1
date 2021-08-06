@@ -3,8 +3,8 @@ import React from 'react'
 const PiePag = () => {
     return (
         <div>
-            <span>Informacion del sitio web</span>
-            
+            <p>copyright</p>
+            <h5>APARICIO SAPACAYO FIORELA</h5>
         </div>
     )
 }
